@@ -1,0 +1,35 @@
+#top_menu_head  {
+ 
+  background:#66BBB1;
+  min-height: 80px; }
+  
+
+  a:hover {
+    background-color:#F8F9FA;
+    font-size: 160%;
+    transition: 0.5s linear all;
+  }
+
+.active {
+
+  background-color:#F8F9FA;
+  font-size: 160%;
+}
+
+.new_goods {
+
+  position: relative;
+  height: 550px;
+}
+
+.del_click {
+
+  width: 100px !important  ;
+  height: 50px;
+}
+
+.vl {
+  border-left: 1px solid rgb(115, 204, 226);
+
+}
+
